@@ -1,2 +1,2 @@
 console.log("change.js");
-console.log('version updated');
+console.log('version updated to 3');
